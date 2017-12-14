@@ -1,0 +1,15 @@
+
+a{
+text-decoration:bold;
+}
+ul li{display:inline;padding:20px;}
+ul{background-color:white;
+}
+a:hover{color:black;}
+
+h2{background-color:cyan;}
+
+
+
+body{background-color:white;height:200px; width:1300px;
+	text-align:justify;font-size:15px;margin-left:50px;}
