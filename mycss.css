@@ -1,0 +1,38 @@
+h1{background-color:cyan;
+ 	color:white  ;
+border:5px;
+border-radius: 5px;
+font-size:27px;
+width:1265px;
+height:35px;
+float:left;
+border:2px ;
+border-top:2px cyan;
+border-bottom:2px solid cyan;
+text-align:center;
+text-shadow:-10px 5px 5px blue;}
+
+body
+{
+	background-image:url(image/1.jpg);
+	
+   
+}
+p{
+background-color:#A5FF4D;
+	padding:9px;
+}
+a{
+text-decoration:bold;
+}
+ul li{display:inline;padding:20px;}
+ul{background-color:white;
+}
+a:hover{color:white;}
+
+h2{background-color:cyan;}
+
+
+
+body{background-color:white;height:100px; width:1300px;
+	text-align:justify;font-size:15px;margin-left:50px;}
